@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/141466/ffffff?text=ToDo+List+App+%7C+HTML+CSS+JS" alt="ToDo App Banner"/>
+  <img src="[https://via.placeholder.com/1000x250/141466/ffffff?text=ToDo+List+App+%7C+HTML+CSS+JS" alt="ToDo App Banner](https://cdn-icons-png.flaticon.com/256/8476/8476676.png)"/>
 </p>
 
 <h1 align="center">📝 ToDo List App</h1>
